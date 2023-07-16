@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Planetario_Linea.unity
+  isLoaded: 1
+  isActive: 1
